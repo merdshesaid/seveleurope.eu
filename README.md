@@ -86,14 +86,14 @@ https://seveleurope.eu
 ## Homepage
 ![Homepage](./preview1)
 
-## Homepage
-![Homepage](./preview2)
+## Contact
+![Contact](./preview2)
 
-## Homepage
-![Homepage](./preview3)
+## Product Example
+![Product Example](./preview3)
 
-## Homepage
-![Homepage](./preview4)
+## Footer
+![Footer](./preview4)
 
 ---
 
