@@ -58,11 +58,12 @@ The goal was to make browsing hundreds of commercial refrigeration products feel
 
 # Technologies
 
-- Next.js
-- React
-- TypeScript
+- HTML5
+- JavaScript
+- CSS
 - Tailwind CSS
-- Vercel
+- Node.js
+- Visual Studio Code
 
 ---
 
@@ -82,7 +83,7 @@ https://seveleurope.eu
 
 # Screenshots
 
-_Add screenshots here._
+
 
 ---
 
