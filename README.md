@@ -86,6 +86,15 @@ https://seveleurope.eu
 ## Homepage
 ![Homepage](./preview1)
 
+## Homepage
+![Homepage](./preview2)
+
+## Homepage
+![Homepage](./preview3)
+
+## Homepage
+![Homepage](./preview4)
+
 ---
 
 # Author
